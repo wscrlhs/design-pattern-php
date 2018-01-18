@@ -14,7 +14,7 @@ class MacButton extends Button
     public function click()
     {
         // TODO: Implement click() method.
-        echo "click Button on mac";
+        return "click Button on mac";
     }
 }
 
@@ -23,7 +23,7 @@ class WinButton extends Button
     public function click()
     {
         // TODO: Implement click() method.
-        echo "click button on win";
+        return "click button on win";
     }
 }
 

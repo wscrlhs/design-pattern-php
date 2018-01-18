@@ -1,6 +1,12 @@
 <?php
 
-require_once 'Bicycle.php';
+class Bicycle
+{
+    public function driveTo(string $destination)
+    {
+        return $destination;
+    }
+}
 
 class SimpleFactory
 {
@@ -13,6 +19,5 @@ class SimpleFactory
 
 $factory = new SimpleFactory();
 $bicycle = $factory->createBicycle();
-
 $bicycle->driveTo('Paris');
 
