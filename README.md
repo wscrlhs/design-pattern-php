@@ -12,3 +12,4 @@
 - 适配器模式 [Adapter](Adapter)
 - 桥接模式 [Bridge](Bridge)
 - 组合模式 [Composite](Composite)
+- 装饰器模式[Decorator](Decorator)
