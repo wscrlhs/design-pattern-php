@@ -14,3 +14,4 @@
 - 组合模式 [Composite](Composite)
 - 装饰器模式[Decorator](Decorator)
 - 依赖注入模式[DependencyInjection](DependencyInjection)
+- 门面模式 [Facade](Facade)
