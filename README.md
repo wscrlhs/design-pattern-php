@@ -17,3 +17,4 @@
 - 门面模式 [Facade](Facade)
 - 链式操作 [FluentInterface](FluentInterface])
 - 代理模式 [Proxy](Proxy)
+- 注册器模式 [Registry](Registry)
