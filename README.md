@@ -13,3 +13,4 @@
 - 桥接模式 [Bridge](Bridge)
 - 组合模式 [Composite](Composite)
 - 装饰器模式[Decorator](Decorator)
+- 依赖注入模式[DependencyInjection](DependencyInjection)
