@@ -23,3 +23,4 @@
 - 观察者模式 [Observer](Observer)
 - 责任链模式 [ChainOfResponsibilities](ChainOfResponsibilities)
 - 模版方法 [TemplateMethod](TemplateMethod)
+- 策略模式 [Strategy](Strategy)
