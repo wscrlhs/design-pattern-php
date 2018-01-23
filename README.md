@@ -25,3 +25,4 @@
 - 模版方法 [TemplateMethod](TemplateMethod)
 - 策略模式 [Strategy](Strategy)
 - 访问者模式 [Visitor](Visitor)
+- 遍历模式 [Iterator](Iterator)
