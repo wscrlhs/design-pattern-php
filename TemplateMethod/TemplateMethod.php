@@ -50,7 +50,6 @@ class BeachJourney extends Journey
 
     protected function enjoyVacation(): string
     {
-        // TODO: Implement enjoyVacation() method.
         return 'Swimming and sun-bathing';
     }
 }
@@ -60,7 +59,6 @@ class CityJourney extends Journey
 
     protected function enjoyVacation(): string
     {
-        // TODO: Implement enjoyVacation() method.
         return "Eat ,drink, take photos and sleep";
     }
 

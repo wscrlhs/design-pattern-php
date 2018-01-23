@@ -27,7 +27,6 @@ class ImageProxy implements Image
 
     public function getWidth()
     {
-        // TODO: Implement getWidth() method.
         return $this->img->getWidth();
     }
 }

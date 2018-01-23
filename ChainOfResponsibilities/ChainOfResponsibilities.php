@@ -37,8 +37,6 @@ class EnglishTranslator extends TranslationResponsibility
 
     public function translate($input)
     {
-        // TODO: Implement translate() method.
-
         if (!is_null($this->next) && !$this->canTranslate($input)) {
             $this->next->translate($input);
         } else {
@@ -57,8 +55,6 @@ class FrenchTranslator extends TranslationResponsibility
 
     public function translate($input)
     {
-        // TODO: Implement translate() method.
-
         if (!is_null($this->next) && !$this->$this->canTranslate($input)) {
             $this->next->translate($input);
         } else {

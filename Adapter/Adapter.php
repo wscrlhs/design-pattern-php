@@ -85,19 +85,16 @@ class Adapter implements DataBase
 
     public function connect()
     {
-        // TODO: Implement connect() method.
         $this->adapter->oracleConnect();
     }
 
     public function query()
     {
-        // TODO: Implement query() method.
         $this->adapter->oracleQuery();
     }
 
     public function close()
     {
-        // TODO: Implement close() method.
         $this->adapter->oracleClose();
     }
 }

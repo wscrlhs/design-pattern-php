@@ -13,8 +13,6 @@ class Form implements RenderableInterface
 
     public function render(): string
     {
-        // TODO: Implement render() method.
-
         $formCode = '<form>';
 
         foreach ($this->element as $element) {
@@ -44,7 +42,6 @@ class TextElement implements RenderableInterface
 
     public function render(): string
     {
-        // TODO: Implement render() method.
         return $this->text;
     }
 }
@@ -54,7 +51,6 @@ class InputElement implements RenderableInterface
 
     public function render(): string
     {
-        // TODO: Implement render() method.
         return '<input type="text" />';
     }
 }

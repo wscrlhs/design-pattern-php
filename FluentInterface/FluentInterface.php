@@ -29,8 +29,6 @@ class Employee
 
     public function __toString()
     {
-        // TODO: Implement __toString() method.
-
         $employeeInfo = "Name: " . $this->name . PHP_EOL;
         $employeeInfo .= "SurName: " . $this->surName . PHP_EOL;
         $employeeInfo .= "Salary: " . $this->salary . PHP_EOL;

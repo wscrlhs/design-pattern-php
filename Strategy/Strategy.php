@@ -11,7 +11,6 @@ class MaleShowStategy implements ShowStrategy
 
     public function showCategory()
     {
-        // TODO: Implement showCategory() method.
         echo '展示男性商品目录' . PHP_EOL;
     }
 }
@@ -21,7 +20,6 @@ class FemaleShowStrategy implements ShowStrategy
 
     public function showCategory()
     {
-        // TODO: Implement showCategory() method.
         echo '展示女性商品目录' . PHP_EOL;
     }
 }

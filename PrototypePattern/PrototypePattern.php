@@ -17,7 +17,6 @@ class ConcretePrototype implements Prototype
 
     public function copy()
     {
-        // TODO: Implement copy() method.
         return clone $this;
     }
 }
