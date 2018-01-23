@@ -18,3 +18,6 @@
 - 链式操作 [FluentInterface](FluentInterface])
 - 代理模式 [Proxy](Proxy)
 - 注册器模式 [Registry](Registry)
+
+## 行为性模式
+- 观察者模式 [Observer](Observer)
