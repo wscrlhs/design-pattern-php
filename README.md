@@ -27,3 +27,4 @@
 - 访问者模式 [Visitor](Visitor)
 - 遍历模式 [Iterator](Iterator)
 - 空对象模式 [NullObject](NullObject)
+- 状态模式 [State](State)
