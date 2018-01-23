@@ -24,3 +24,4 @@
 - 责任链模式 [ChainOfResponsibilities](ChainOfResponsibilities)
 - 模版方法 [TemplateMethod](TemplateMethod)
 - 策略模式 [Strategy](Strategy)
+- 访问者模式 [Visitor](Visitor)
