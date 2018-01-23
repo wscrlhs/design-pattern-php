@@ -28,3 +28,7 @@
 - 遍历模式 [Iterator](Iterator)
 - 空对象模式 [NullObject](NullObject)
 - 状态模式 [State](State)
+- 命令模式 [Command](Command)
+
+### 参考资料
+* [PHP设计模式](http://larabase.com/collection/5/post/143)
